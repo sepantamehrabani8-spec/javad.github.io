@@ -1,0 +1,18 @@
+.box{
+    background-color: rgb(63, 63, 63);
+    margin: auto;
+    width: 500px;
+    height: 400px;
+    border-radius: 50px;
+}
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+
+}
+h1{
+    color: rgb(85, 137, 182);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
